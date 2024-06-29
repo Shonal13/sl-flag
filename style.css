@@ -1,0 +1,41 @@
+#flag{
+    background-color: gold;
+    width: 1200px;
+    height: 600px;
+    position: absolute;
+}
+
+#green{
+    background-color: darkgreen;
+    width: 150px;
+    height: 550px;
+    position: absolute;
+    left: 50px;
+    top: 25px;
+}
+
+#orange{
+    background-color: darkorange;
+    width: 150px;
+    height: 550px;
+    position: absolute;
+    top: 25px;
+    left: 200px;
+}
+
+#red-back{
+    background-color: crimson;
+    width: 800px;
+    height: 550px;
+    position: absolute;
+    left: 380px;
+    top: 25px;
+}
+
+img{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 150px;
+    top: 10px;
+}
